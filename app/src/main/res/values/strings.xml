@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Familias que Suman</string>
+    <string name="widget_nombre">Próxima actividad</string>
+    <string name="widget_descripcion">Tu siguiente actividad de voluntariado y el avance de tu familia</string>
+</resources>
